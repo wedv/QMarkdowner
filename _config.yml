@@ -1,0 +1,8 @@
+title: QMarkdowner
+description: An editor for Markdown based on PyQt4 with Metro
+google_analytics: markdown PyQt Metro python dragondjf
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
